@@ -27,7 +27,3 @@ def auto(user, psw):
 
 
 
-if __name__ == "__main__":
-    user = "mtuenmuk"
-    psw = "Pika.mtm@5tar"
-    auto(user, psw)
